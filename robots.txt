@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hanfordplumbingco.com/sitemap.xml
